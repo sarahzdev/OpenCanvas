@@ -12,22 +12,26 @@ OpenCanvas is:
 
 ![OpenCanvas banner](https://github.com/sarahzdev/100-builders/assets/15064710/07ab1271-d640-4894-b522-71e3d5474139)
 
+<br/>
+
 ## 🧱 MVP Roadmap
 
-1. ERC721 smart contract for the AI artwork
-Each art piece will be a non-fungible token (NFT).
+1) ERC721 smart contract for the AI artwork
+- Each art piece will be a non-fungible token (NFT).
 
-2. Integration with a secure non-custodial wallet provider
-Onboarding onto the platform should be as seamless as signing in with social.
+2) Integration with a secure non-custodial wallet provider
+- Onboarding onto the platform should be as seamless as signing in with social.
 
-3. Integration with a decentralized storage provider
-An art piece and its associated metadata (e.g., prompt, model used, and date) will be securely stored on a decentralized platform.
+3) Integration with a decentralized storage provider
+- An art piece and its associated metadata (e.g., prompt, model used, and date) will be securely stored on a decentralized platform.
    
-4. UX/UI for core experiences, which includes:
+4) UX/UI for core experiences, which includes:
 - Generating AI art using prompts
 - Minting an art piece
 - Showcasing art pieces
 - Remixing an art piece
+
+<br/>
 
 ## 🤝 Collaboration
 
